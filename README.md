@@ -1,6 +1,7 @@
 # 👋 Olá! Eu sou o Calebe
 
 🎓 Estudante de Desenvolvimento de Software  
+🇺🇸 Inglês Fluente 
 💻 Foco em Python, Web e Análise de Dados  
 🐧 Linux user (às vezes Kali 😄)
 
