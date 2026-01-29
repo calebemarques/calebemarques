@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Calebe
 
-<!--
-**calebemarques/calebemarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Desenvolvimento de Software  
+💻 Foco em Python, Web e Análise de Dados  
+🐧 Linux user (às vezes Kali 😄)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Sou apaixonado por tecnologia, programação e aprendizado constante.  
+Gosto de construir projetos práticos e entender como as coisas funcionam por baixo dos panos.
+
+Atualmente estudando:
+- Python (principal)
+- Desenvolvimento Web
+- Estruturas de Dados
+- Git e GitHub
+
+---
+
+## 🧠 Foco e Tecnologias
+
+| Área | Tecnologias |
+|----|----|
+| Linguagem Principal | Python |
+| Web | HTML, CSS, JavaScript |
+| Dados | Pandas, NumPy |
+| Ferramentas | Git, GitHub, VS Code |
+| SO | Linux, Windows |
+
+---
+
+## 🛠️ Habilidades
+
+- Versionamento com Git
+- Lógica de Programação
+- Algoritmos e Estruturas de Dados
+- Metodologias básicas (Scrum / Kanban)
+
+---
+
+## 📌 Projetos em Destaque
+
+🔹 **CS50 / Estudos**  
+Repositório com exercícios e aprendizados práticos.
+
+🔹 **Projetos em Python**  
+Scripts, automações e estudos diversos.
+
+---
+
+## 🌐 Onde me encontrar
+
+- 💼 LinkedIn: https://www.linkedin.com/in/seu-link
+- 📸 Instagram: https://www.instagram.com/seu-user
+- 📧 Email: seuemail@email.com
+
+---
+
+⭐ *Sempre aprendendo. Sempre evoluindo.*
