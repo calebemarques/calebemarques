@@ -53,7 +53,7 @@ Scripts, automações e estudos diversos.
 
 ## 🌐 Onde me encontrar
 
-- 💼 LinkedIn: https://www.linkedin.com/in/calebe-carvalho-marques
+- 💼 LinkedIn: [https://www.linkedin.com/in/calebe-carvalho-marques](https://www.linkedin.com/in/calebe-carvalho-marques-6276a23a9/)
 - 📸 Instagram: [(https://www.instagram.com/___calebe____)](https://www.instagram.com/___calebe____)
 - 📧 Email: calebe.c.marques.dev@gmail.com
 
