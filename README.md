@@ -43,9 +43,6 @@ Atualmente estudando:
 
 ## 📌 Projetos em Destaque
 
-🔹 **CS50 / Estudos**  
-Repositório com exercícios e aprendizados práticos.
-
 🔹 **Projetos em Python**  
 Scripts, automações e estudos diversos.
 
