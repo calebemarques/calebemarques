@@ -33,7 +33,7 @@ Linux, Windows
 🔹 **Projetos em Python**Scripts, automações e estudos diversos.
 ## 🌐 Onde me encontrar
 - 💼 LinkedIn: [https://www.linkedin.com/in/calebe-carvalho-marques](https://www.linkedin.com/in/calebe-carvalho-marques-6276a23a9/)
-- 📸 Instagram: [(https://www.instagram.com/***calebe***_)](https://www.instagram.com/calebe.cm)
+- 📸 Instagram: [(https://www.instagram.com/calebe.ccm)](https://www.instagram.com/calebe.cm)
 - 📧 Email: calebe.c.marques.dev@gmail.com
 
 ⭐ *Sempre aprendendo. Sempre evoluindo.*
